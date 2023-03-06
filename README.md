@@ -1,5 +1,5 @@
 # Source code cho các phương pháp tính đã học để giải phương trình và hệ phương trình
-Chương 2 : 1.Phương Pháp Chia Đôi.
+Chương 2 : 1.Phương Pháp Chia Đôi.\n
            2.Phương Pháp Điểm Bất Động.
            3.Phương Pháp Newton.
            4.Phương Pháp Dây Cung.
